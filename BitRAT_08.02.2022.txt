@@ -16,4 +16,4 @@ cmd.exe /c copy C:\Users\Admin\AppData\Local\Temp\nemaikj_Receipt.exe C:\Users\A
 
 c2
 
-bitranew3500.duckdns.org
+bitranew3500.duckdns.org:3500
