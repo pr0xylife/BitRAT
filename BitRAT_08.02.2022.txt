@@ -1,0 +1,19 @@
+BitRAT 2022 | 08.02.2022 | Version 1.38
+
+************************************************************************************************************
+
+.exe 3bef26fca4cfee3c2dab9e68e06dc4b5479f7a1d679292c2fce0505dbb4655ea
+
+C:\Users\Admin\AppData\Local\Temp\nemaikj_Receipt.exe
+
+cmd.exe /c mkdir C:\Users\Admin\AppData\Roaming\fswe
+
+cmd.exe /c schtasks /create /sc minute /mo 1 /tn Nanias /tr 'C:\Users\Admin\AppData\Roaming\fswe\fswe.exe' /f
+
+schtasks.exe  /create /sc minute /mo 1 /tn Nanias /tr 'C:\Users\Admin\AppData\Roaming\fswe\fswe.exe' /f
+
+cmd.exe /c copy C:\Users\Admin\AppData\Local\Temp\nemaikj_Receipt.exe C:\Users\Admin\AppData\Roaming\fswe\fswe.exe
+
+c2
+
+bitranew3500.duckdns.org
